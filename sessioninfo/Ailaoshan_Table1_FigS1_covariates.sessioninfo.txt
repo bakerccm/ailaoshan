@@ -1,0 +1,35 @@
+R version 3.6.1 (2019-07-05)
+Platform: x86_64-apple-darwin15.6.0 (64-bit)
+Running under: macOS Catalina 10.15.7
+
+Matrix products: default
+BLAS:   /Library/Frameworks/R.framework/Versions/3.6/Resources/lib/libRblas.0.dylib
+LAPACK: /Library/Frameworks/R.framework/Versions/3.6/Resources/lib/libRlapack.dylib
+
+locale:
+[1] en_AU.UTF-8/en_AU.UTF-8/en_AU.UTF-8/C/en_AU.UTF-8/en_AU.UTF-8
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] forcats_0.5.0   stringr_1.4.0   dplyr_1.0.2     purrr_0.3.4    
+ [5] readr_1.3.1     tidyr_1.1.2     tibble_3.0.3    ggplot2_3.3.2  
+ [9] tidyverse_1.3.0 raster_3.3-13   sp_1.4-2        sf_0.9-5       
+[13] here_0.1       
+
+loaded via a namespace (and not attached):
+ [1] tidyselect_1.1.0   haven_2.3.1        lattice_0.20-41    colorspace_1.4-1  
+ [5] vctrs_0.3.4        generics_0.0.2     blob_1.2.1         rlang_0.4.7       
+ [9] e1071_1.7-3        pillar_1.4.6       withr_2.2.0        glue_1.4.2        
+[13] DBI_1.1.0          dbplyr_1.4.4       modelr_0.1.8       readxl_1.3.1      
+[17] lifecycle_0.2.0    munsell_0.5.0      gtable_0.3.0       cellranger_1.1.0  
+[21] rvest_0.3.6        codetools_0.2-16   labeling_0.3       class_7.3-17      
+[25] fansi_0.4.1        broom_0.7.0        Rcpp_1.0.5         KernSmooth_2.23-17
+[29] backports_1.1.9    scales_1.1.1       classInt_0.4-3     jsonlite_1.7.0    
+[33] farver_2.0.3       fs_1.5.0           digest_0.6.25      hms_0.5.3         
+[37] stringi_1.4.6      grid_3.6.1         rprojroot_1.3-2    cli_2.0.2         
+[41] tools_3.6.1        magrittr_1.5       crayon_1.3.4       pkgconfig_2.0.3   
+[45] ellipsis_0.3.1     xml2_1.3.2         reprex_0.3.0       lubridate_1.7.9   
+[49] assertthat_0.2.1   httr_1.4.2         rstudioapi_0.11    R6_2.4.1          
+[53] units_0.6-7        compiler_3.6.1    

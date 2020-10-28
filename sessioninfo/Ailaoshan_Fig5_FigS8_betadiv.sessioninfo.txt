@@ -1,0 +1,28 @@
+R version 3.6.1 (2019-07-05)
+Platform: x86_64-apple-darwin15.6.0 (64-bit)
+Running under: macOS Catalina 10.15.7
+
+Matrix products: default
+BLAS:   /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib
+LAPACK: /Library/Frameworks/R.framework/Versions/3.6/Resources/lib/libRlapack.dylib
+
+locale:
+[1] en_AU.UTF-8/en_AU.UTF-8/en_AU.UTF-8/C/en_AU.UTF-8/en_AU.UTF-8
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] rcompanion_2.3.25 dendextend_1.14.0 scales_1.1.1      forcats_0.5.0     stringr_1.4.0     dplyr_1.0.2       purrr_0.3.4       readr_1.3.1       tidyr_1.1.2       tibble_3.0.3      ggplot2_3.3.2    
+[12] tidyverse_1.3.0   raster_3.3-13     sp_1.4-2          sf_0.9-5          vegan_2.5-6       lattice_0.20-41   permute_0.9-5     here_0.1         
+
+loaded via a namespace (and not attached):
+ [1] nlme_3.1-149       matrixStats_0.56.0 fs_1.5.0           lubridate_1.7.9    httr_1.4.2         rprojroot_1.3-2    tools_3.6.1        backports_1.1.9    R6_2.4.1           KernSmooth_2.23-17
+[11] nortest_1.0-4      DBI_1.1.0          mgcv_1.8-33        colorspace_1.4-1   withr_2.2.0        tidyselect_1.1.0   gridExtra_2.3      Exact_2.0          compiler_3.6.1     cli_2.0.2         
+[21] rvest_0.3.6        expm_0.999-5       xml2_1.3.2         sandwich_3.0-0     lmtest_0.9-38      classInt_0.4-3     mvtnorm_1.1-1      multcompView_0.1-8 pkgconfig_2.0.3    dbplyr_1.4.4      
+[31] rlang_0.4.7        readxl_1.3.1       rstudioapi_0.11    generics_0.0.2     zoo_1.8-8          jsonlite_1.7.0     magrittr_1.5       modeltools_0.2-23  Matrix_1.2-18      Rcpp_1.0.5        
+[41] DescTools_0.99.38  munsell_0.5.0      fansi_0.4.1        viridis_0.5.1      lifecycle_0.2.0    multcomp_1.4-13    stringi_1.4.6      MASS_7.3-52        plyr_1.8.6         grid_3.6.1        
+[51] blob_1.2.1         parallel_3.6.1     crayon_1.3.4       lmom_2.8           haven_2.3.1        splines_3.6.1      hms_0.5.3          pillar_1.4.6       EMT_1.1            boot_1.3-25       
+[61] gld_2.6.2          codetools_0.2-16   stats4_3.6.1       reprex_0.3.0       glue_1.4.2         modelr_0.1.8       vctrs_0.3.4        cellranger_1.1.0   gtable_0.3.0       assertthat_0.2.1  
+[71] coin_1.3-1         libcoin_1.0-6      broom_0.7.0        e1071_1.7-3        class_7.3-17       survival_3.2-3     viridisLite_0.3.0  units_0.6-7        cluster_2.1.0      TH.data_1.0-10    
+[81] ellipsis_0.3.1    
