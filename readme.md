@@ -27,4 +27,4 @@ Note that some steps in this workflow are computationally intensive and/or have 
 
 ## Further information
 
-- Please contact Chris Baker for any enquiries regarding this repository.
+- Please contact (Chris Baker)[https://github.com/bakerccm] for any enquiries regarding this repository.
